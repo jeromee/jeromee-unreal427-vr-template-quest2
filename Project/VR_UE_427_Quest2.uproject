@@ -52,12 +52,11 @@
 		},
 		{
 			"Name": "HoudiniEngine",
-			"Enabled": true
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
 		"Android",
-		"IOS",
 		"Linux",
 		"Mac",
 		"PS4",
